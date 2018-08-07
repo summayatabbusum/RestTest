@@ -4,7 +4,7 @@ public class test_001 {
 	
 	public static void main(String args[]) {
 		
-		int i=0;
+		
 		
 	}
 
